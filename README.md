@@ -1,4 +1,4 @@
-# Meiotic-Exit-Code-
+# Meiotic-Exit-Code
 Code implementation of the mathematical model describing meiotic exit in budding yeast.
 
 This project analyzes and implements a minimal model of the **meiosis process in budding yeast**, a type of cell division essential for sexual reproduction. We use simulations in Python with interactive visualizations created using **Bokeh** and **Panel**.
